@@ -1,4 +1,9 @@
-# walletapp_ui
+# walletapp ui
+
+
+
+![image](https://user-images.githubusercontent.com/47644147/204360148-5bb1b277-8c61-4f33-9dc9-f356ea7c6dcf.png)
+
 
 A new Flutter project.
 
